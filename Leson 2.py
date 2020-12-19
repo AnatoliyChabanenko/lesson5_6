@@ -12,11 +12,6 @@ lastanme = ('Çhabanenko')
 dt = '17/12/2020'
 print('Good day',name, dt, 'is a perfect day to learn some python' )
 
-'''Save your first and last name as separate variables,
- then use string concatenation to add them together with
-  a white space in between and print a greeting.
-
-'''
 print(name+lastanme)
 '''Using python as a calculator.
 
