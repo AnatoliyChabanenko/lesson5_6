@@ -6,6 +6,7 @@ for i in range (len(v)):
 dicor = dict(zip(v, k))
 print(dicor)
 # вторая
+#2
 stock = {
     "banana": 6,
     "apple": 0,
